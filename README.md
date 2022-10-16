@@ -1,4 +1,4 @@
-[![Header](https://github.com/JonseeFX/artichokeee/blob/main/placeholder2.jpg)
+[![Header](https://github.com/JonseeFX/blob/main/placeholder2.jpg)
 ## I'm a junior QA Engineer. Looking for a experience in black/grey box testing and interesting projects!
 ## My CV:
 [Link to my CV](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
