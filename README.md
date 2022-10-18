@@ -1,7 +1,7 @@
 [![Header](https://github.com/JonseeFX/JonseeCV/blob/main/placeholder2.jpg)
-## I'm a junior QA Engineer. Looking for a experience manual testing and interesting projects!
+## I'm a junior QA Engineer. Looking for experience in manual testing and interesting projects!
 ## My CV:
-[Link to my CV](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
+[Link to my CV](https://docs.google.com/document/d/1CIrG3wxDlj8TIThXlEfUKfWJhEOQToBX_23gBeGqJ_0/edit)
 
 ### Testing Documentation:
 - [Checklists](https://github.com/MaxGreyhorse/Checklists.git)
