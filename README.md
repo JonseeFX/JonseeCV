@@ -1,4 +1,4 @@
-[![Header](https://github.com/JonseeFX/JonseeFX/blob/main/assets/imageqa.png)
+[![Header](https://github.com/JonseeFX/JonseeFX/blob/main/assets/Mask_group.png)
 ## I'm a junior QA Engineer. Looking for experience in manual testing and interesting projects!
 ## My CV:
 [Link to my CV](https://docs.google.com/document/d/1CIrG3wxDlj8TIThXlEfUKfWJhEOQToBX_23gBeGqJ_0/edit)
