@@ -4,9 +4,9 @@
 [Link to my CV](https://docs.google.com/document/d/1hHyeeD2q2tungXacyZBihhw46nYwIZYm)
 
 ### Testing Documentation:
-- [Checklists](https://github.com/MaxGreyhorse/Checklists.git)
-- [Bug-Reports](https://github.com/MaxGreyhorse/Bug-Reports.git)
-- [Test-Plans](https://github.com/MaxGreyhorse/Test-Plans.git)
+- [Checklists](https://github.com/JonseeFX/Checklists)
+- [Bug-Reports](https://github.com/JonseeFX/Bug-reports)
+- [Test-Cases](https://github.com/JonseeFX/Test-cases)
 
 ### Language and Tools:
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
@@ -23,4 +23,4 @@
 ### My Contacts:
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/Real_Jonsee)
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)]
-11
+
