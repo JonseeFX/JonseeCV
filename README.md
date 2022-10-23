@@ -1,7 +1,7 @@
 ![Header](https://github.com/JonseeFX/JonseeFX/blob/main/assets/Mask_group.png)
 ## I'm a junior QA Engineer. Looking for experience in manual testing and interesting projects!
 ## My CV:
-[Link to my CV](https://docs.google.com/document/d/1hHyeeD2q2tungXacyZBihhw46nYwIZYm)
+[Link to my CV](https://drive.google.com/file/d/1hnojQk0dXwNLbH-V-DgC7YY_CQi6ya9N/view?usp=sharing)
 
 ### Testing Documentation:
 - [Checklists](https://github.com/JonseeFX/Checklists)
