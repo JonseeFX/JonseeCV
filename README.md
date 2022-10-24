@@ -5,8 +5,9 @@
 
 ### Testing Documentation:
 - [Checklists](https://github.com/JonseeFX/Checklists)
-- [Bug-Reports](https://github.com/JonseeFX/Bug-reports)
 - [Test-Cases](https://github.com/JonseeFX/Test-cases)
+- [Bug-Reports](https://github.com/JonseeFX/Bug-reports)
+
 
 ### Language and Tools:
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
